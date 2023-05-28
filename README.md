@@ -32,6 +32,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
+![image](https://github.com/Subhikshaa13/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/118787344/1ba4e911-4e43-43d2-b4a1-c4ef428f8ec7)
+
 
 ### Name:Subhikshaa M
 ### Register Number:212222230151
